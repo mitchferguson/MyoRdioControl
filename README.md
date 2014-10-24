@@ -1,6 +1,6 @@
 RDIO---Myo-LUA-Script
 
-This script is a copy of @ajc292's Spotify Script
+This script is a modified version of @ajc292's Spotify Script and changed for RDIO
 https://github.com/ajc292/MyoSpotifyControl 
 
 =====================
